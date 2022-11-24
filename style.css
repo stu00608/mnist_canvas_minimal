@@ -1,0 +1,19 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    position: relative;
+    background: #EEEEEE;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+#canvas {
+    width: 280px;
+    height: 280px;
+    background-color: white;
+}
